@@ -15,7 +15,7 @@
     <!-- The content of the website starts here now! -->
     <div class="jumbotron">
       <h1 class="display-4">Hello DevOps Students of RMIT Vietnam!!!</h1>
-      <p class="lead">This is a very simple website template that uses bootstrap CSS framework! This is another new code to push for the github SCM poll!!! Another new code for the Webhook from Github</p>
+      <p class="lead">This is a very simple website template that uses bootstrap CSS framework! This is another new code to push for the github SCM poll!!! Another new code for the Webhook from Github with a new IP Address</p>
       <p class="lead">This website is build automatically by Jenkins!!! Yeahhhh!!! New Test</p>
       <hr class="my-4">
       <p>You can visit the website of School of Science, Engineering and Technology (SSET) of RMIT Vietnam by clicking to the button below!</p>
