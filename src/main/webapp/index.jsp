@@ -23,6 +23,7 @@
       <a class="btn btn-primary btn-lg" href="https://www.rmit.edu.vn/about-us/schools-and-centres/school-of-science-engineering-and-technology" role="button">Learn more about SSET</a>
       <a class="btn btn-success btn-lg" href="https://getbootstrap.com/docs/4.3/getting-started/introduction/" role="button">Learn more about Bootstrap CSS Framework</a>
       <%-- Add this logging code --%>
+<%-- Add this logging code --%>
 <%@ page import="java.io.*, java.util.Date, java.text.SimpleDateFormat" %>
 <%
     try {
@@ -52,6 +53,7 @@
         e.printStackTrace();
     }
 %>
+<p style="color: green;"><b>A new log entry was just added to /usr/local/tomcat/logs/app.log!</b></p>
 
     </div>
     <!-- The content of the website ends here! -->
